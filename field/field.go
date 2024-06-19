@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/qiniu/qmgo/operator"
+	"github.com/gitmonster/qmgo/operator"
 )
 
 var nilTime time.Time

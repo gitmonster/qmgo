@@ -18,8 +18,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/qiniu/qmgo/operator"
-	"github.com/qiniu/qmgo/options"
+	"github.com/gitmonster/qmgo/operator"
+	"github.com/gitmonster/qmgo/options"
 	"github.com/stretchr/testify/require"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"

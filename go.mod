@@ -1,4 +1,4 @@
-module github.com/qiniu/qmgo
+module github.com/gitmonster/qmgo
 
 go 1.16
 
